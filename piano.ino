@@ -1,11 +1,11 @@
 /*
  * Info: keys range from 21 to 108. Mapping from left to right:
- * 0: 21 - 35 (sheild pins 1-15)
- * 1: 36 - 50 (sheild pins 1-15)
- * 2: 51 - 65 (sheild pins 1-15)
- * 3: 66 - 80 (sheild pins 1-15)
- * 4: 81 - 95 (sheild pins 1-15)
- * 5: 96 - 108 (sheild pins 1-13)
+ * 0: 21 - 35 (sheild pins 0-14)
+ * 1: 36 - 50 (sheild pins 0-14)
+ * 2: 51 - 65 (sheild pins 0-14)
+ * 3: 66 - 80 (sheild pins 0-14)
+ * 4: 81 - 95 (sheild pins 0-14)
+ * 5: 96 - 108 (sheild pins 0-12)
  */
 
 #include <Wire.h>
