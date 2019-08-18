@@ -1,6 +1,6 @@
 filename = "flight_of_the_bumblebee.txt"
-addOn = 100
-delay = 0
+addOn = 100 # time in ms to extend each note
+delay = 0 # total delay - do not modify
 
 newName = filename.split(".")[0] + "_rxn.txt"
 
