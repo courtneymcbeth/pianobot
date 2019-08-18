@@ -4,4 +4,4 @@ PianoBot is a robot that plays the piano. The version that I have constructed is
 
 ![Image of Piano](/photos/piano_design.jpg)
 
-For a full description of the project, see [my write up on the Arduino Project hub](https://create.arduino.cc/projecthub/cmcbeth5287/pianobot-80bae6).
+For a full description of the project, see [my write up on the Arduino Project Hub](https://create.arduino.cc/projecthub/cmcbeth5287/pianobot-80bae6).
